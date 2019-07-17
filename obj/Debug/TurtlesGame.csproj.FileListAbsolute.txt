@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\TurtlesGame\bin\Debug\TurtlesGame.exe.config
+C:\Users\PC\source\repos\TurtlesGame\bin\Debug\TurtlesGame.exe
+C:\Users\PC\source\repos\TurtlesGame\bin\Debug\TurtlesGame.pdb
+C:\Users\PC\source\repos\TurtlesGame\obj\Debug\TurtlesGame.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\TurtlesGame\obj\Debug\TurtlesGame.Form1.resources
+C:\Users\PC\source\repos\TurtlesGame\obj\Debug\TurtlesGame.Properties.Resources.resources
+C:\Users\PC\source\repos\TurtlesGame\obj\Debug\TurtlesGame.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\TurtlesGame\obj\Debug\TurtlesGame.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\TurtlesGame\obj\Debug\TurtlesGame.exe
+C:\Users\PC\source\repos\TurtlesGame\obj\Debug\TurtlesGame.pdb
+C:\Users\PC\source\repos\TurtlesGame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\TurtlesGame\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\source\repos\TurtlesGame\obj\Debug\TurtlesGame.csproj.CopyComplete
